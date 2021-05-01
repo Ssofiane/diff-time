@@ -8,3 +8,4 @@ while IFS=";/" read start_day start_month start_year start_time group end_day en
 done < /dev/stdin
 tast 
 tast
+stop
